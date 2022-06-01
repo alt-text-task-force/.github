@@ -1,8 +1,9 @@
 # alt text task force 
 
-![](https://c.tenor.com/6omVw7_jl7AAAAAC/tmnt-michelangelo.gif)
+![Mikey of the Teenage Mutant Ninja Turtles. Percariously balancing a pizza on his head and hands,he exclaims 'It's pizza time!'](https://c.tenor.com/6omVw7_jl7AAAAAC/tmnt-michelangelo.gif)
 # Alt Text Task Force
-(image of logo)
+![Logo of 'Alt Text Task Force', in the font of 'Teenage Mutant Ninja Turtles'](https://user-images.githubusercontent.com/46167686/171480548-238d3bdb-4558-4039-aa62-5be8eb59a74f.png)
+
 
 ## Pitch/Format
 
