@@ -20,9 +20,9 @@
 | Quansight Blogs    | Quansight           |      |                  |                 |
 |                    |                     |      |                  |                 |
 
-## How to Start a Workshop With Us
+## Sign up for a workshop!
 - Email? Github message? Make an issue in Github?
-
+- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8)!
 ---
 ## Want to Host Your Own Workshop, without us?
 - While currnetly run by core team, can expand 
