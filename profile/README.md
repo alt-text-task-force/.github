@@ -25,8 +25,10 @@ Let's make the world more accessible! Let's add alt-text to scientific images an
 - Disabled people who learn and contribute to science and math everyday
 - You! After a workshop, you can carry this knowledge with you and spread accessibility to other communities
 
+## Sign up for a workshop!
+- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8)
+
 ## Past Workshops
-(table. lists project benefitted, group, date, collab PR, Other (video links, blog post, etc))
 
 | Year | Project | Working PR | Contributing PR | Other | 
 |------|---------|------------|-----------------|-------|
@@ -41,8 +43,6 @@ Let's make the world more accessible! Let's add alt-text to scientific images an
 | 2022 | napari | [isabela-pf/napari #2](https://github.com/isabela-pf/napari/pull/2) | [napari/napari #4375](https://github.com/napari/napari/pull/4375) |  |
 | 2022 | Scientific Python Blog | [MarsBarLee/blog.scientific-python.org #1](https://github.com/MarsBarLee/blog.scientific-python.org/pull/1) | [scientific-python/blog.scientific-python.org #71](https://github.com/scientific-python/blog.scientific-python.org/pull/71) |  |
 
-## Sign up for a workshop!
-- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8)
 
 ## Want to Host Your Own Workshop?
 - While these workshops are currnetly run by core team, anyone can host it themselves! Check out the workshop [documentation](https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text) for templates and advice
