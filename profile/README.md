@@ -1,6 +1,7 @@
 # Alt Text Task Force
 ![Logo of 'Alt Text Task Force', in the font of 'Teenage Mutant Ninja Turtles'](https://user-images.githubusercontent.com/46167686/171480548-238d3bdb-4558-4039-aa62-5be8eb59a74f.png)
 ![Mikey of the Teenage Mutant Ninja Turtles. Percariously balancing a pizza on his head and hands,he exclaims 'It's pizza time!'](https://c.tenor.com/6omVw7_jl7AAAAAC/tmnt-michelangelo.gif)
+
 Let's make the world more accessible! Let's add alt-text to scientific images and documentation! 
 
 ## In these workshops, we
