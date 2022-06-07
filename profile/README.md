@@ -35,9 +35,9 @@
 |                    |                     |      |                  |                 |
 
 ## Sign up for a workshop!
-- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8).
+- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8)
 
 ## Want to Host Your Own Workshop?
-- While these workshops currnetly run by core team, anyone can host it themselves! Check out the workshop [documentation](https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text) for templates and advice.
-- If you need additional help, make a Github issue here and the core team will respond.
+- While these workshops are currnetly run by core team, anyone can host it themselves! Check out the workshop [documentation](https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text) for templates and advice
+- If you need additional help, make a Github issue here and the core team will respond
 
