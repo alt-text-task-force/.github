@@ -26,7 +26,10 @@ Let's make the world more accessible! Let's add alt-text to scientific images an
 - You! After a workshop, you can carry this knowledge with you and spread accessibility to other communities
 
 ## Sign up for a workshop!
-- Fill out this [form](https://forms.gle/epDVEyuitaQZQ7qi8)
+- Fill out a few questions at this [form](https://forms.gle/epDVEyuitaQZQ7qi8)
+  - Perfect for community organizers looking to introduce accessibility, Github or open-source to their community
+  - We have hosted at community calls, Newcomer Hour, with working professionals, university groups and more
+- If you are project that would like alt text, make an issue here and the core team will connect you to a workshop
 
 ## Past Workshops
 
