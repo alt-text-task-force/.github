@@ -1,0 +1,21 @@
+# SciPy 2022 Conference Edition
+
+The Alt Text Task Force has a mission for y'all at SciPy.
+Our mission is to (1) have fun and (2) increase access to scientific Python.
+We've designed a scavenger hunt for in-person/remote attendees to stop by your favorite
+projects and submit better descriptions.
+
+By participating:
+* You'll be contributing to project revision histories.
+* You'll interact with new folks.
+* You'll learn to advocate for broader access to our scientific tools.
+
+## Participants
+
+| Project         | Link to Pull Request | Description |
+|-----------------|----------------------|-------------|
+| Project Jupyter | [jlab]               |
+
+## How to participate.
+
+[jlab]: https://github.com/isabela-pf/jupyterlab/pull/1
