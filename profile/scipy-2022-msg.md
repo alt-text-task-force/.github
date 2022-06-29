@@ -22,7 +22,7 @@ to participate, we need:
 
 ## why participate
 
-* your project and pull request will be featured in the digital and print scavenger hunt manifest
+* your project and pull request will be featured in the digital and print scavenger hunt announcement. [_a draft of the scavenger hunt announcement_][draft].
 * your project and pull request will be featured in the digital and print in accessibility comic book distributed during SciPy
 * it provides a proven way to on-board diverse contributors onto projects
 * your documentation will be more accessible 
@@ -33,6 +33,8 @@ there is [a draft pull request started for Project Jupyter][reference], more pla
 y'all can use this copy to start your pull request.
 
 
-[^history]: this started as a remote in the Project Jupyter community. since, its been run in NumPy, Dask, Napari, Scikit-Learn. you can learn more about [these low-code events on the Quansight Labs blog][https://labs.quansight.org/blog/2021/09/low-code-contributions-through-github/] or explore [past events][past]. 
 [reference]: https://github.com/Quansight-Labs/jupyterlab/pull/1
 [past]: https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text#past-events
+[draft]: #
+
+[^history]: this started as a remote in the Project Jupyter community. since, its been run in NumPy, Dask, Napari, Scikit-Learn. you can learn more about [these low-code events on the Quansight Labs blog][https://labs.quansight.org/blog/2021/09/low-code-contributions-through-github/] or explore [past events][past]. 
