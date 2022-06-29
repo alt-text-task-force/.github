@@ -35,6 +35,6 @@ y'all can use this copy to start your pull request.
 
 [reference]: https://github.com/Quansight-Labs/jupyterlab/pull/1
 [past]: https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text#past-events
-[draft]: #
+[draft]: https://github.com/alt-text-task-force/.github/blob/scipy-hunt/profile/scipy-2022-07.md
 
 [^history]: this started as a remote in the Project Jupyter community. since, its been run in NumPy, Dask, Napari, Scikit-Learn. you can learn more about [these low-code events on the Quansight Labs blog][https://labs.quansight.org/blog/2021/09/low-code-contributions-through-github/] or explore [past events][past]. 
