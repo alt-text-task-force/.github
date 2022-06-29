@@ -21,8 +21,9 @@ to participate, we need:
 
 ## why participate
 
-* your project and pull request will be featured in a comic book distributed during SciPy
-* it provides a proven way to on-board people onto projects
+* your project and pull request will be featured in the digital and print scavenger hunt manifest
+* your project and pull request will be featured in the digital and print in accessibility comic book distributed during SciPy
+* it provides a proven way to on-board diverse contributors onto projects
 * your documentation will be more accessible 
 
 ### reference
