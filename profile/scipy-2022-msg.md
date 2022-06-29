@@ -1,6 +1,7 @@
 hi there! the `alt-text-task-force` is reaching out to see if your project wanted to participate in an open source scavenger hunt hosted during SciPy 2022.
 the goals of this event are to:
 
+* introduce people to your community
 * provide remote & in-person, low-code, beginner friendly ways for folks to participate in open-source [^history]
 * bring multiple contributors into your project's revision history
 * raise awareness and action for accessible documentation practices
