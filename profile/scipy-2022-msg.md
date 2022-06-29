@@ -17,7 +17,7 @@ to participate, we need:
 * project advocates to communicate _sometimes_ in-person and/or remotely from July 13-14
   * spread word about the project and your pull requests
 * project advocates to review and close the pull request after July 15
-* placeholders provider for participants to discover where remediations need to be made
+* placeholders provided for participants to discover where alt text needs improvement
   * an example of placeholders for markdown documentation can be found in Jupyter's reference pull request.
 
 ## why participate
@@ -33,6 +33,6 @@ there is [a draft pull request started for Project Jupyter][reference], more pla
 y'all can use this copy to start your pull request.
 
 
-[^history]: this started as a remote in the Project Jupyter community. since, its been run in projects.
+[^history]: this started as a remote in the Project Jupyter community. since, its been run in NumPy, Dask, Napari, Scikit-Learn. you can learn more about [these low-code events on the Quansight Labs blog][https://labs.quansight.org/blog/2021/09/low-code-contributions-through-github/] or explore [past events][past]. 
 [reference]: https://github.com/Quansight-Labs/jupyterlab/pull/1
 [past]: https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text#past-events
