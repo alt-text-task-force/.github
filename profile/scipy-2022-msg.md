@@ -1,17 +1,17 @@
-hi there the `alt-text-task-force` is reaching out to see if you wanted to participate in an open source scavenger hunt hosted during SciPy 2022.
+hi there! the `alt-text-task-force` is reaching out to see if your project wanted to participate in an open source scavenger hunt hosted during SciPy 2022.
 the goals of this event are to:
 
 * provide remote & in-person, low-code, beginner friendly ways for folks to participate in open-source [^history]
 * bring multiple contributors into your project's revision history
-* raise awareness accessible documentation practices
+* raise awareness and action for accessible documentation practices
 
 ## how to participate
 
 to participate, we need:
 
-* a project advocate to open a pull request by July 4
-  * the body of the pull request contains information about how to modify your documentation with Github suggestions
-  * see the reference implementation for copy or explore past pull requests to find what fits best for your project.
+* a project advocate to open a pull request by July 4. _this is the most time sensitive portion so we can print links to your contributions._
+  * we generally recommend opening the pull request on a fork to cut down on notifications
+  * there is a reference implementation open for [Project Jupyter](#reference), or refer to [past events][past]
 * project advocates to add placeholders where alt text is needed in documentation by July 12
 * project advocates to communicate _sometimes_ in-person and/or remotely from July 13-14
   * spread word about the project and your pull requests
@@ -25,10 +25,12 @@ to participate, we need:
 * it provides a proven way to on-board people onto projects
 * your documentation will be more accessible 
 
-### reference pull request
+### reference
 
+there is [a draft pull request started for Project Jupyter][reference], more placeholders will be added. 
+y'all can use this copy to start your pull request.
 
 
 [^history]: this started as a remote in the Project Jupyter community. since, its been run in projects.
-[^reference]: https://github.com/Quansight-Labs/jupyterlab/pull/1
-[past]: #
+[reference]: https://github.com/Quansight-Labs/jupyterlab/pull/1
+[past]: https://github.com/isabela-pf/a11y-events/tree/main/workshop-resources/alt-text#past-events
