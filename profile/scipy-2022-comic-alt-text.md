@@ -17,7 +17,11 @@ Wide establishing shot of city skyline, in a cyberpunk future Two people are wal
 
 The two people are 'Ally' and Friend'.
 
-Friend and Ally are walking down an alleyway. Friend is using a white cane to navigate. The two of them are are chatting happily.
+Friend and Ally are walking down an alleyway. The two of them are are chatting happily.
+
+Friend is using a white cane to navigate. It has a rollable marshmellow tip. It is non-collapsible- he prefers the extra sensitivity. He wears a cool pair of sunglasses.
+
+Ally as a bandana across their head, like an 80s aerobics instructor or Rambo wannabe.
 
 ## Panel 2
 Ally suddenly stops in front of the City Ramen sign
@@ -64,6 +68,30 @@ Friend looks down, body pointing away from Friend.
 Friend: I know, and I appreciate it. I just... want to do it myself sometimes… I wish more images had alt text.
 
 # Page 2
+## Panels 1, 2, and 3
+Friend is sad, shoulder slumped in defeat. Then Friend is suddenly angry, dark lines swirling their head like a storm. Then has an idea, as the storm above their head subsides and turns into a lightbulb going off above their head.
+  
+## Panel 4:
+Ally: Fine! If they won't add alt text to their own signs....
+
+## Panel 5:
+Ally dramatically pulls out a crayon from their pocket.
+Ally: I'll do it myself!
+
+## Panel 6:
+Ally hastily scribbles alt text into the alt text property of the City Ramen sign.
+Ally: I'll add alt text here!
+  
+## Panel 7, 8, 9
+Ally runs down the alleyway, adding alt text to more and more signs.
+Ally: And over here! 
+Ally stretches up to a different sign.
+Ally: And here!
+Ally is now visibly tired, sweat pouring off their brown as their legs stumble.
+Ally: ... And ... and here...
+  
+## Panel 10
+  
 # Page 3
 # Page 4
 # Page 5
