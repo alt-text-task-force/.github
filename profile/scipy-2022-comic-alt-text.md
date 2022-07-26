@@ -377,13 +377,49 @@ A table with two columns and five rows. The first section is the cow's age in ye
 
 A cow's head pokes from behind the table. She has luxious horns, a curious snout and an adorable cow-bell tied around her neck.
 
-Friend walks along, prodding the columns of the table with his cane. While he is not literally using a cane to access digital information, this example lets sighted readers imagine navigating a digital landscape, such as a table, in a similar way to navigating a physical landscape, such as an alleyway.
+Friend walks along, gently prodding the columns of the table with his cane. While he is not literally using a cane to access digital information, this example lets sighted readers imagine navigating a digital landscape, such as a table, in a similar way to navigating a physical landscape, such as an alleyway.
 Friend: Ah, the best age is 4 years, at 600kg!
 
 # Page 8
+## Panel 1
 Ally: In the context of documentation for Scientific Python projets, there's usually enough details surronding the graph.
 
+## Panel 2
+A web page representing the typical page of documentation for a Scientific Python project. In this case, it is NumPy, on the about histograms.
 
+### Long details of documentation example
+The page has an example histogram, the details too small to make out. The page reads:
+The NumPy histogram function applied to an array returns a pair of vectors: the histogram of the array and a vector of the bin edges. Beware: matplotlib also has a function to build histograms (called hist, as in Matlab) that differs from the one in NumPy. The main difference is that pylab.hist plots the histogram automatically, while numpy.histogram only generates the data.
+
+The code snippet reads:
+- import numpy as np
+- rg = np.random.default_rng(1)
+- import matplotlib.pyplot as plt
+- Build a vector of 10000 normal deviates with variance 0.5^2 and mean 2
+
+## Panel 3
+A tsumani wave of words surge up and around Friend.
+Friend: However, I might get lost in this sea of text!
+
+## Panel 4
+Friend is now safe from the wave, having shored up onto an island. The island has a flag with a histogram on it. The flag reads out its alt text "A normalized histogram...". Friend is relieved now that everything makes sense.
+
+A caption reads:
+Alt text summmarizes the most important parts. An island after a sea of text.
+
+## Panel 5
+A caption reads:
+This is just the tip of the iceberg. In blog posts, release notes, contributor guidelines, there's all sorts of curveballs we're still figuring out.
+
+## Panel 7
+Four examples of curveballs. The examples include
+- Screenshots
+- Memes
+- Flowcharts
+- Header images
+
+## Panel 8
+Friend: It will take time for these to become accessible. But once it is, I'll want to learn everything! I have so much data about cows... Cowabunga!
 
 # Page 9
 # Page 10
