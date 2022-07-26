@@ -1,13 +1,14 @@
-
 # Front Cover
 ## Title: How to Write Alt Text for Scientific Diagrams and Illustration
 ## Publisher: Quansight Labs
 
-A person, known as Ally, dynamically jumps down to the center of the cover. They're holding a sign titled "ALT". They have a bandana covering their eyes like a superhero domino mask, similar to Batman. They are grinning widely and challenge the reader by saying "Join our sprints to make the world more accessible!"
+A person, known as Ally, dramatically jumps down to the center of the cover. They're holding a sign titled "ALT". They have a bandana covering their eyes like a superhero domino mask, similar to Batman. They are grinning widely and challenge the reader by saying "Join our sprints to make the world more accessible!"
+
+In the background is Ally's home, a futuristic cyberpunk city. Tall, elaborate skyscrapers loom behind them and large billboards with glowing graphs shine through the night sky. In the bottom right corner of each billboard is their alt text property, represented as a sticker labelled 'Alt'.
 
 The bottom of the cover contains several elements:
 - Author and Artist: Mars Lee
-- QR code to digital version of comics
+- QR code to digital version of this comic book that has alt text
 - Price: $0.00
 - Sticker: A snake circling around the words 'SciPy 2022 edition'
 
@@ -385,7 +386,7 @@ Friend: Ah, the best age is 4 years, at 600kg!
 Ally: In the context of documentation for Scientific Python projets, there's usually enough details surronding the graph.
 
 ## Panel 2
-A web page representing the typical page of documentation for a Scientific Python project. In this case, it is NumPy, on the about histograms.
+A web browswer with a page representing the typical page of documentation for a Scientific Python project. In this case, it is NumPy, on the about histograms.
 
 ### Long details of documentation example
 The page has an example histogram, the details too small to make out. The page reads:
@@ -412,7 +413,7 @@ A caption reads:
 This is just the tip of the iceberg. In blog posts, release notes, contributor guidelines, there's all sorts of curveballs we're still figuring out.
 
 ## Panel 7
-Four examples of curveballs. The examples include
+Four examples of curveballs found in the wide world of Scientific Python. The examples include:
 - Screenshots
 - Memes
 - Flowcharts
@@ -422,6 +423,113 @@ Four examples of curveballs. The examples include
 Friend: It will take time for these to become accessible. But once it is, I'll want to learn everything! I have so much data about cows... Cowabunga!
 
 # Page 9
+## Panel 1
+A caption, serving as a hook:
+Find out more in out next issue at EuroSciPy 2022! In our next issues, watch our heroes face even bigger challenges, such as...
+- Commmunity involvement
+- Sustainability
+- Other types of accessibility
+
+## Panel 2
+Friend and Ally are hanging out on a couch. This is their post-credits scence, now that they're done with work. Friend is chewing on a pizza slice from Cowabunga Pizza, enjoying his hard-earned dinner. Ally has already left their dinner, a bowl from City Ramen, on the floor. Instead, Ally is rapidly mashing buttons on their SNES video game controller. Allly is leaning precariously forward towards the TV, one part of their mind on winning this level, the other on a wild food combination.
+
+Ally: Hear me out... cheese ramen...
+Friend: OK...
+Ally: With anchovies!
+Friend: Nope.
+
+## Panel 3
+Ally: If you want to start applying what you learnt, hoin us in our accessibility sprints during SciPy 2022!
+
+An asterik marks a footnote reading 'Original concept developed by Isabela Presedo-Floyd and Tony Fast of Qunasight Labs".
+
+Sprint attendees can make contributions via the Github Suggestions feature, which can be submitted via web browser.
+
+So you could submit your contribution from your phone while in line for lunch!
+
+By using Github Suggestions, we
+- lower barriers
+- get more first time contributors
+- maintain individual credit
+- highlight non-code contributions
+
+## Panel 4
+Two people in line for lunch near the SciPy conference center. Person A looks up from their phone, playing it cool and trying to flirt. Person B is happily engrossed in their phone.
+
+Person A: What's for lunch?
+Person B: Adding alt text to Bokeh!
+
+## Panel 5
+Person A is caught a little off-guard, but wants to impress Person B by joining in. Person B smiles, looking up at Person A.
+
+Person A: Wait, how do you do that?
+Person B: By scanning the QR codes on the next page!
+
+## Panel 6
+A caption reads 'Just like in the story, you can scan the world around you!'
+
+A phone scans a QR code and emits a beep. The QR code leads to the accessibility sprint website. 
+
 # Page 10
-# Page 11
+## Panel 1
+
+Accessibility Sprint: SciPy 2022 Edition
+
+There are four QR codes, one for each project involved in the sprint. The four projects are Dask, SciPy, Bokeh and JupyterLab.
+
+Dates: July 11-July 17 2022
+Format: In-person (at SciPy) and Remote
+Target Audience: Everyone! Especially if you read this comic.
+
+If you need any help, look for the Quansight table at SciPy! Our guides, such as the comic author, Mars Lee, will be there.
+
+## Panel 2
+Refer to this cheatsheet during the sprint!
+General principles:
+- Identify the graph type
+- Explain the data on the X and Y axis
+- Summarize the overall trend
+- Keep it short. 3 sentences is good.
+
+Checklist:
+- Correct spelling and no typos
+- Periods and commas where relevant
+- A logical way of fitting into the rest of the documentation
+- Consistent text and/or description for the same element in different images
+- A description of any text in the iamae
+
+## Panel 3
+Friend happily sings into a microphone. Below him is a QR code.
+Friend: Thank you! Here's a special, secret gift, just for you!
+This QR code leads to a video of Rick Ashley's "Never Gonna Give You Up". You, dear reader, and everyone else who scanned this code, has been "Rickrolled".
+
 # Back Cover
+## Panel 1
+Ally: These projects need alt text! Help them now at SciPy 2022! Add alt text to multiple projects! Work together or seperately! It's a week-long, asynchronous project!
+
+Four projects, represented by their logos, are floating around some example web pages. The four projects are Dask, SciPy, Bokeh and Jupyter. Each project has a corresponding pull request (PR).
+
+People are standing on top of the web pages, as if they were paper maps on the floor. These are the contributors. One person is adding an alt text property to a image in the Dask documentation. Another person is jumping across web pages, to join the SciPY documentation PR. Their friend, already on the SciPy documentation page, is waving them over as they jump.
+
+Ally is in the middle of the scence, jumping up and between both project's pages.
+
+## Panel 2
+Ally and the contributors are putting their hands out, pushing their powers to the center of the panel. At the center of the panel is the Dask logo, with the words "Alt" floating aroun dit.
+Ally: With your powers combined...
+
+## Panel 3
+Now the Dask documentation page has been transformed! Ally and contributors show off the new page, as Friend gives a thumbs up.
+Ally: We can make projets more accessible!
+
+## Panel 4
+People with disabilities learn and contribute to science and math everyday. Let's make it easier for everyone to access these very powerful tools of Scientific Python!
+
+## Panel 5
+Friend is standing in front of an image from the Dask documentation, which now has alt text.
+Friend: Now I understand how Dask dataframes work! Why was I paying $$$ for < Redacated Commercial Software > when I could have used Dask instead?!
+
+## Panel 6
+One last thing... if you add alt text to all four projects, come back to the Quansight table for a special gift!
+Two people at the Quansight table. The contributor has their hands up in celebration, their mouth udulating as they shout "Woooo!". The person at the table hands them a box marked with a question mark, that looks a lot like the blocks from the Mario video game series.
+
+End of entire comicbook. P.S: Thanks for reading!
